@@ -1,2 +1,2 @@
 ### 医疗大模型RAG知识问答助手
-<video src="./show.mp4" autoplay="true" controls="controls" width="800" height="600"></video>
+https://github.com/user-attachments/assets/8739fc2d-3086-4da4-a67f-58923d21d355
